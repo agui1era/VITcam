@@ -1,0 +1,23 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Entorno
+.env
+
+venv/
+
+# Datos generados
+alerts/
+VTcam_log.jsonl
+VTcam_analysis.jsonl
+
+# Archivos de video temporales
+*.mp4
+*.avi
+
+# Otros
+.DS_Store
+.idea/
+.vscode/

@@ -1,6 +1,15 @@
-torch
-transformers
-opencv-python
-Pillow
-requests
+# Core
 python-dotenv
+opencv-python
+pillow
+numpy
+
+# Modelos visión
+torch
+torchvision
+torchaudio
+transformers
+ultralytics
+
+# Utilidades
+scikit-image   # para SSIM (comparación de frames)
